@@ -4,6 +4,9 @@ Yuba Poudel - yup52@pitt.edu
 Description and links to the datasets used
 https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps/resource/37b2ac41-ae8e-4de1-8405-157e05dc3640 - This is just the amount of speed humps and what neighborhood they are in. 
 
+Colin Shanahan - cjs507@pitt.edu
+https://data.wprdc.org/dataset/311-data - This is the number of 311 non-emergency service requests reported in each neighborhood
+
 Noah Narciso - nfn8@pitt.edu
 https://data.wprdc.org/dataset/pgh/resource/d5573eb6-a647-42b4-8b17-6e4787e48eeb - This contains population in locations every era from 1940 - 2010 with total land at that location.
 

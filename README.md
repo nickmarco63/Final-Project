@@ -1,4 +1,4 @@
-Team name - Density and Amenities 
+Team name - A Young Family's Best Neighborhood
 
 Yuba Poudel - yup52@pitt.edu
 Description and links to the datasets used
@@ -14,4 +14,4 @@ Nicholas Marcotullio - nam463@pitt.edu
 https://data.wprdc.org/datastore/dump/044f2016-1dfd-4ab0-bc1e-065da05fca2e - This dataset is the number of incidents/crimes reported in a neighborhood
 https://data.wprdc.org/dataset/5b18c198-474c-4723-b735-cc5220ad43cc/resource/82f29015-6905-4b1c-8300-afe9bb2231b3/download/total-population.csv - This dataset is the population of a neighborhood (Combined this with the incident dataset to make a ratio for the number of incidents per 1000 people in a neighborhood)
 
-A one sentence overview of your repository, meant for someone who is not familiar with the project
+This project takes data from the WPRDC and uses Python to analyze the top neighborhoods based on the above mentioned data sets based on the perspective of a young family. 
